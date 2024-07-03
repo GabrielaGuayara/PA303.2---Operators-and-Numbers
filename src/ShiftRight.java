@@ -1,4 +1,4 @@
-public class shiftRight {
+public class ShiftRight {
 
     public static void main(String [] args){
 
