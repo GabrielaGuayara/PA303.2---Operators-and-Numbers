@@ -1,4 +1,4 @@
-public class bitwiseAND {
+public class BitwiseAND {
     public static void main(String [] args){
 
         int x, y, z;
