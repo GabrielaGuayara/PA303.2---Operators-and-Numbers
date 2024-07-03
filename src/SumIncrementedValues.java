@@ -1,4 +1,4 @@
-public class sumIncrementedValues {
+public class SumIncrementedValues {
 
     public static void main(String[] args){
         int x, y;
