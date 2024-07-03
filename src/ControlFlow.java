@@ -1,4 +1,4 @@
-public class controlFlow {
+public class ControlFlow {
     public static void main(String [] args){
         //Ternary
         int x = 5, y = 6;
